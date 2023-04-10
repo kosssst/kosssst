@@ -34,4 +34,4 @@ My name is Kostia, and I'm C++ and Python Developer from Kyiv.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kosssst&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kosssst&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kosssst&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosssst&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kosssst&theme=2077&utcOffset=3)
