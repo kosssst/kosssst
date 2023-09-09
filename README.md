@@ -8,7 +8,7 @@
 
 ### About me:
 
-My name is Kostia, and I'm C++ and Python Developer from Kyiv.
+My name is Kostia, and I'm C++, Java and Python Developer from Kyiv.
 
 - Studying in Igor Sikorsky Kyiv Polytechnic Institute.
 - In my free time, I create pet-projects and read tech articles.
