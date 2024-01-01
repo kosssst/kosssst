@@ -2,7 +2,7 @@
 
 ----
 
-<h3 align="center">Computer Science student from Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3>
+<h3 align="center">Software Engineer from Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/></h3>
 
 ----
 
@@ -11,13 +11,14 @@
 My name is Kostia, and I'm C++, Java and Python Developer from Kyiv.
 
 - Studying in Igor Sikorsky Kyiv Polytechnic Institute.
+- I'm working as Software Engineer at NPC Ukrenergo.
 - In my free time, I create pet-projects and read tech articles.
 
 ----
 
 ### Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,bots,github,java,idea,linux,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,bots,github,java,idea,linux,raspberrypi,vscode,bash,docker,git,prometheus)](https://skillicons.dev)
 
 ----
 
