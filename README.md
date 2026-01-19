@@ -8,7 +8,7 @@
 
 ### About me:
 
-My name is Kostia, and I'm Java and Python Developer from Kyiv.
+My name is Kostia, and I'm Typescript and Python Developer from Kyiv.
 
 - Graduated from Igor Sikorsky Kyiv Polytechnic Institute.
 - I'm working as Software Engineer at NPC Ukrenergo.
@@ -18,7 +18,7 @@ My name is Kostia, and I'm Java and Python Developer from Kyiv.
 
 ### Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=py,bots,github,java,linux,raspberrypi,bash,docker,git,prometheus,django,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bots,github,java,linux,raspberrypi,docker,git,prometheus,nextjs,ts,express)](https://skillicons.dev)
 
 ----
 
