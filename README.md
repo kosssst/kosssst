@@ -10,7 +10,7 @@
 
 My name is Kostia, and I'm Java and Python Developer from Kyiv.
 
-- Studying in Igor Sikorsky Kyiv Polytechnic Institute.
+- Graduated from Igor Sikorsky Kyiv Polytechnic Institute.
 - I'm working as Software Engineer at NPC Ukrenergo.
 - In my free time, I create pet-projects and read tech articles.
 
